@@ -1,10 +1,11 @@
 # Journey2Python3
 I am learning python3, and this repo contains all the cool python3 scripts I am making along the way!
+The idea is to make this a one-stop-shop for anyone who wants to learn python3 with a creative approach!
 
 ## What's the catch?
 Each script will be partly broken; yeah you read that right, the main control flow will be perfect, but there will be a lot of room for improvements, bug fixes etc. etc.
 
-## So why are you posting this here?
+## So why am I posting this here?
 I procrastinated a lot before deciding that it's high time and now I should start learning python!
 
 ## How?
