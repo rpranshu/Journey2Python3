@@ -1,5 +1,5 @@
 # Journey2Python3
-I am learning python, and this repo contains all the cool scripts I am making along the way!
+I am learning python3, and this repo contains all the cool python3 scripts I am making along the way!
 
 ## What's the catch?
 Each script will be partly broken; yeah you read that right, the main control flow will be perfect, but there will be a lot of room for improvements, bug fixes etc. etc.
