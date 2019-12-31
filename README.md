@@ -20,7 +20,7 @@ It's pretty simple!
 2. I will start working on the test scripts to make them stable and anyone can join in and make their contributions!
 3. The goal is to make an ultra efficient script whose output is pretty as well! The scripts will have comments, lot's of 'em! I plan to explain the code in a way that even a beginner can understand each and every line of the code!
 
-        a. If you are creating a pull request, please ensure your code contains comments!
+      a. If you are creating a pull request, please ensure your code contains comments!
 4. This means that the **stable** scripts will feature the test scripts but only they are more powerful and pretty :)
 5. This is a solo/co-op mission, so even if no one joins me, I will keep on making new test scripts and make them stable!
 6. Feel free to submit new test scripts through the pull requests!
