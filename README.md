@@ -24,3 +24,6 @@ It's pretty simple!
 6. Feel free to submit new test scripts through the pull requests!
 
 7. If you fork this repo, all I ask is that you should give credits to all the authors and contributors!
+
+
+### P.S. THis readme too is imperfect, you might wanna start from here :)
